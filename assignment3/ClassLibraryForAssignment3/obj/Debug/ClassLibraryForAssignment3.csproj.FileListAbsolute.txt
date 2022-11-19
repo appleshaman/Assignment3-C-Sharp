@@ -1,0 +1,8 @@
+C:\Users\unite\Desktop\ClassLibraryForAssignment3\bin\Debug\ClassLibraryForAssignment3.dll
+C:\Users\unite\Desktop\ClassLibraryForAssignment3\bin\Debug\ClassLibraryForAssignment3.pdb
+C:\Users\unite\Desktop\ClassLibraryForAssignment3\obj\Debug\ClassLibraryForAssignment3.csprojAssemblyReference.cache
+C:\Users\unite\Desktop\ClassLibraryForAssignment3\obj\Debug\ClassLibraryForAssignment3.csproj.CoreCompileInputs.cache
+C:\Users\unite\Desktop\ClassLibraryForAssignment3\obj\Debug\ClassLibraryForAssignment3.dll
+C:\Users\unite\Desktop\ClassLibraryForAssignment3\obj\Debug\ClassLibraryForAssignment3.pdb
+E:\158.212\assignment3\ClassLibraryForAssignment3\obj\Debug\ClassLibraryForAssignment3.dll
+E:\158.212\assignment3\ClassLibraryForAssignment3\obj\Debug\ClassLibraryForAssignment3.pdb
